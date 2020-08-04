@@ -17,8 +17,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Svelte" width="30px" src="https://svelte.dev/svelte-logo-horizontal.svg" />][svelte]
-[<img align="left" alt="Sapper" width="30px" src="https://sapper.svelte.dev/sapper-logo-horizontal.svg" />][sapper]
+[<img align="left" alt="Svelte" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1b%2FSvelte_Logo.svg%2F220px-Svelte_Logo.svg.png&f=1&nofb=1" />][svelte]
+[<img align="left" alt="Sapper" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YRYwK1cr2xIlEx4ZbICssAHaHa%26pid%3DApi&f=1" />][sapper]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
