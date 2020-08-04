@@ -3,7 +3,8 @@
 ## I'm a Student, and Full Stack Developer!
 
 - I’m currently working on a [My Website][website]!
-- I’m currently learning Backend Development with sapper and mongo integration. 🤣
+- I love working with Svelte and Sapper!
+- I’m currently learning Backend Development with Sapper and mongo integration. 🤣
 - 2020 Goals: Contribute more to Open Source prjects
 - Fun fact: I love to code and play drums
 
@@ -16,6 +17,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Svelte" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />][svelte]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
@@ -44,3 +46,4 @@
 [nodejs]: https://nodejs.org/
 [mongodb]: https://www.mongodb.com/
 [terminal]: https://github.com/Microsoft/Terminal
+[svelte]: https://svelte.dev/
