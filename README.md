@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Skillcrafter0307&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dustsucker&show_icons=true&hide_border=true" />
 
 [website]: https://jumbobeans.de/
 [instagram]: https://www.instagram.com/titus_ritus0307/
