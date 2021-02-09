@@ -1,4 +1,4 @@
-### Hi there, I'm Titus - aka [Skillcrafter0307][website]
+### Hi there, I'm Titus - aka [dustsucker][website]
 
 ## I'm a Student, and Full Stack Developer!
 
