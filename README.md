@@ -2,10 +2,9 @@
 
 ## I'm a Student, and Full Stack Developer!
 
-- I’m currently working on a [My Website][website]!
-- I love working with Svelte and Sapper!
-- I’m currently learning Backend Development with Sapper and mongo integration.
-- 2020 Goals: Contribute more to Open Source prjects
+- I’m currently working on a [personal Website][website]!
+- I love working with Svelte adn Routify!
+- 2021 Goals: Contribute more to Open Source prjects
 - Fun fact: I love to code and play drums
 
 ### Connect with me:
