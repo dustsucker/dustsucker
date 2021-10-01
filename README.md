@@ -3,8 +3,8 @@
 ## I'm a Student, and Full Stack Developer!
 
 - I’m currently working on a [personal Website][website]!
-- I love working with Svelte adn Routify!
-- 2021 Goals: Contribute more to Open Source prjects
+- I love working with Svelte and Routify!
+- I'm a Computer Sience Student.
 - Fun fact: I love to code and play drums
 
 ### Connect with me:
