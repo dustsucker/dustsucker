@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Svelte" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1b%2FSvelte_Logo.svg%2F220px-Svelte_Logo.svg.png&f=1&nofb=1" />][svelte]
+[<img align="left" alt="Sveltekit" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--k-z0ysHD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p3nn57r52krvpdieblta.png" />][sveltekit]
 [<img align="left" alt="HTML5" width="30px" src="https://routify.dev/images/logo.svg" />][routify]
 [<img align="left" alt="Sapper" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YRYwK1cr2xIlEx4ZbICssAHaHa%26pid%3DApi&f=1" />][sapper]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -49,5 +50,6 @@
 [mongodb]: https://www.mongodb.com/
 [terminal]: https://github.com/Microsoft/Terminal
 [svelte]: https://svelte.dev/
+[sveltekit]: https://kit.svelte.dev/
 [sapper]: https://sapper.svelte.dev/
 [routify]: https://routify.dev/
