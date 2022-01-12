@@ -4,7 +4,7 @@
 
 - I’m currently working on a [personal Website][website]!
 - I love working with Svelte and Routify!
-- I'm a Computer Sience Student.
+- I'm a Computer Science Student.
 - Fun fact: I love to code and play drums
 
 ### Connect with me:
