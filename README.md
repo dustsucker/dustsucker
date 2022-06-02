@@ -2,7 +2,6 @@
 
 ## I'm a Student, and Full Stack Developer!
 
-- I’m currently working on a [personal Website][website]!
 - I love working with Svelte and Routify!
 - I'm a Computer Science Student.
 - Fun fact: I love to code and play drums
@@ -16,20 +15,25 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Svelte" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1b%2FSvelte_Logo.svg%2F220px-Svelte_Logo.svg.png&f=1&nofb=1" />][svelte]
-[<img align="left" alt="Sveltekit" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--k-z0ysHD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p3nn57r52krvpdieblta.png" />][sveltekit]
-[<img align="left" alt="HTML5" width="30px" src="https://routify.dev/images/logo.svg" />][routify]
-[<img align="left" alt="Sapper" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YRYwK1cr2xIlEx4ZbICssAHaHa%26pid%3DApi&f=1" />][sapper]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Svelte" width="30px" height="30px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/svelte-icon.svg" />][svelte]
+[<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg" />][tailwindcss]
+[<img align="left" alt="intellij" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/intellij-idea.svg" />][intellij]
+[<img align="left" alt="Visual Studio Code" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" />][vscode]
+[<img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" />][html5]
+[<img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" />][css3]
+[<img align="left" alt="Sass" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" />][sass]
+[<img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />][javascript]
+[<img align="left" alt="Node.js" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />][nodejs]
+[<img align="left" alt="MongoDB" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" />][mongodb]
+[<img align="left" alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" />][git]
+[<img align="left" alt="GitHub" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" />][github]
+[<img align="left" alt="Terminal" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terminal.svg" />][terminal]
+[<img align="left" alt="Terminal" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/supabase-icon.svg" />][supabase]
+[<img align="left" alt="Docker" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" />][docker]
+[<img align="left" alt="vercel" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vercel-icon.svg" />][vercel]
+[<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/strapi-icon.svg" />][strapi]
+[<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/graphql.svg" />][graphql]
+[<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />][java]
 
 
 <br />
@@ -37,19 +41,44 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dustsucker&show_icons=true&hide_border=true" />
 
-[website]: https://jumbobeans.de/
+[tailwindcss]: https://tailwindcss.com/
+
+[java]: https://www.java.com/
+
+[graphql]: https://graphql.org/
+
+[strapi]: https://strapi.io/
+
+[vercel]: https://vercel.com
+
+[docker]: https://www.docker.com/
+
+[supabase]: https://supabase.com/
+
+[intellij]: https://www.jetbrains.com/idea/
+
+[website]: https://breede.sh/
+
 [instagram]: https://www.instagram.com/titus_ritus0307/
+
 [vscode]: https://code.visualstudio.com/
+
 [html5]: https://wiki.selfhtml.org/wiki/Schnell-Index/HTML
+
 [css3]: https://wiki.selfhtml.org/wiki/Schnell-Index/CSS
+
 [sass]: https://sass-lang.com/
+
 [javascript]: https://javascript.info/
+
 [github]: https://github.com/
+
 [git]: https://git-scm.com/
+
 [nodejs]: https://nodejs.org/
+
 [mongodb]: https://www.mongodb.com/
+
 [terminal]: https://github.com/Microsoft/Terminal
+
 [svelte]: https://svelte.dev/
-[sveltekit]: https://kit.svelte.dev/
-[sapper]: https://sapper.svelte.dev/
-[routify]: https://routify.dev/
