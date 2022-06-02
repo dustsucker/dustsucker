@@ -15,6 +15,8 @@
 
 ### Languages and Tools:
 
+<p>
+
 [<img align="left" alt="Svelte" width="30px" height="30px"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/svelte-icon.svg" />][svelte]
 [<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg" />][tailwindcss]
 [<img align="left" alt="intellij" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/intellij-idea.svg" />][intellij]
@@ -34,10 +36,10 @@
 [<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/strapi-icon.svg" />][strapi]
 [<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/graphql.svg" />][graphql]
 [<img align="left" alt="strapi" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />][java]
+</p>
 
-
-<br />
-<br />
+<br>
+<br>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dustsucker&show_icons=true&hide_border=true" />
 
