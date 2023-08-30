@@ -41,7 +41,7 @@
 <br>
 <br>
 <h2> </h2>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dustsucker&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-stats-alpha-two.vercel.app/api?username=dustsucker&theme=dark&show_icons=true&hide_border=true" />
 
 
 [tailwindcss]: https://tailwindcss.com/
