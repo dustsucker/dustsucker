@@ -1,10 +1,11 @@
-### Hi there, I'm Titus - aka [dustsucker][website]
+## Hi there, I'm Titus - aka [dustsucker][website]
 
-## I'm a Student, and Full Stack Developer!
+###### <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="WolfyScripts GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dustsucker&theme=material-palenight&hide_border=true"><a/>
 
-- I love working with Svelte and Routify!
+### I'm a Student, and Full Stack Developer!
+
+- I love working with Svelte and TailwindCSS!
 - I'm a Computer Science Student.
-- Fun fact: I love to code and play drums
 
 ### Connect with me:
 
@@ -40,8 +41,7 @@
 
 <br>
 <br>
-<h2> </h2>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-stats-alpha-two.vercel.app/api?username=dustsucker&theme=dark&show_icons=true&hide_border=true" />
+
 
 
 [tailwindcss]: https://tailwindcss.com/
