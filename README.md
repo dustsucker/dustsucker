@@ -10,6 +10,6 @@ Full-stack developer · TypeScript & Svelte · self-hosting enthusiast running a
 
 ### Tech I work with
 
-TypeScript · Svelte / SvelteKit · TailwindCSS · Node.js · PHP · PostgreSQL · Docker · Kubernetes · NixOS · Proxmox
+TypeScript · Svelte / SvelteKit · TailwindCSS · Node.js · PostgreSQL · Docker · Kubernetes · NixOS · Proxmox
 
 🌐 [breede.sh](https://breede.sh/)
