@@ -7,7 +7,6 @@ Full-stack developer · TypeScript & Svelte · self-hosting enthusiast running a
 ### Projects
 
 - 🔌 [thunderbird-email-ai-assistant](https://github.com/dustsucker/thunderbird-email-ai-assistant) — AI-based mail tagging engine for Thunderbird
-- 🎵 [musetree](https://github.com/dustsucker/musetree) — AI music generation for the real world
 
 ### Tech I work with
 
